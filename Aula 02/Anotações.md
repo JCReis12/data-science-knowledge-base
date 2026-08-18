@@ -42,3 +42,6 @@ indeterminada
 
 
 
+
+
+como criar os diferentes tipos de grafico
