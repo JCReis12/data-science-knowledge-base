@@ -45,3 +45,7 @@ indeterminada
 
 
 como criar os diferentes tipos de grafico
+
+como executar filtragens
+
+conceitos de acuracia, precisão, recall e f1-score
