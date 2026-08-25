@@ -778,6 +778,8 @@ y → resultado conhecido
 
 e aprende padrões relacionados à inadimplência.
 
+![alt text](divisao_do_dataset.png)
+
 Depois, podemos fornecer um novo cliente:
 
 ```text
