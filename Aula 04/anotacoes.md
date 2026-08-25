@@ -24,3 +24,8 @@ amostragens:
 - amostragem sistematica: contendo uma lógica simples de escolha(ex: 1, 11, 21...)
 - Amostragem estratificada: ?
 
+---
+---
+---
+
+![Exemplo de divisão do dataset](divisao_do_dataset.png)
