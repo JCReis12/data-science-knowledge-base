@@ -10,3 +10,11 @@ Quanto menor(ex: 0,01) maior a nossa regua
 
 Tabela Qui-Quadrado
 
+VP | FN  
+FP | VN
+
+
+Inspetores de normalidade
+- Shapiro-Wilk
+- Kolmogov-Smirnov
+- Anderson-dARLING
