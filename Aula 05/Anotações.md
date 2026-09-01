@@ -17,4 +17,4 @@ FP | VN
 Inspetores de normalidade
 - Shapiro-Wilk
 - Kolmogov-Smirnov
-- Anderson-dARLING
+- Anderson-Darling
