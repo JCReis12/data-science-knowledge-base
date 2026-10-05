@@ -28,6 +28,16 @@ Camada de entrada (input layer) / Camada oculta (hidden layer) / camada de saíd
 
 
 
+Aprendizado supervisionado
+
+Citou:
+- Erro absoluto
+- Forward
+- Back Propagation
+
+
+
+
 
 
 
