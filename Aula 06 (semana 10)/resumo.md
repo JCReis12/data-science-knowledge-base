@@ -20,6 +20,14 @@ Cada INPUT(entrada) é nomeado de In: exemplo: Renda = I0, Score = I1, Estado_ci
 Tem que dar um jeito de transformar valores categóricas(nomes, tipos(ex: estado civil = solteiro(é string)))
 
 
+Função de ativação: Realça o tipo da saída que queremos, o rage de valores relevantes / Função que define métricas de avaliação, e sobre ela comparasse os valores, tirando disso o resultado.
+
+
+Camada de entrada (input layer) / Camada oculta (hidden layer) / camada de saída (output layer)
+
+
+
+
 
 
 
